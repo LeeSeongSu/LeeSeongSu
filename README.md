@@ -1,6 +1,5 @@
 ### Hi there 👋
 ![LeeSeongSu's github stats](https://github-readme-stats.vercel.app/api?username=LeeSeongSu&show_icons=true)
-[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=oplm123456)](https://solved.ac/oplm123456)
 
 <!--
 **LeeSeongSu/LeeSeongSu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
