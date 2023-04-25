@@ -25,36 +25,6 @@
 
 ---
 
-![](./1-repos-per-language.svg)
-
-```
-![](https://raw.githubusercontent.com/LeeSeongSu/LeeSeongSu/master/profile-summary-card-output/buefy/1-repos-per-language.svg)
-```
-
-    
-
----
-
-![](./2-most-commit-language.svg)
-
-```
-![](https://raw.githubusercontent.com/LeeSeongSu/LeeSeongSu/master/profile-summary-card-output/buefy/2-most-commit-language.svg)
-```
-
-    
-
----
-
-![](./3-stats.svg)
-
-```
-![](https://raw.githubusercontent.com/LeeSeongSu/LeeSeongSu/master/profile-summary-card-output/buefy/3-stats.svg)
-```
-
-    
-
----
-
 ![](./4-productive-time.svg)
 
 ```
